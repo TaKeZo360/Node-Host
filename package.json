@@ -1,5 +1,13 @@
 {
+  "name": "node-host",
+  "version": "1.0.0",
+  "description": "Minimal Node.js app for Render",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "morgan": "^1.10.1"
   }
 }
