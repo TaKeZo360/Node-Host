@@ -1,0 +1,38 @@
+{
+  "id": "12345",
+  "name": {
+    "first": "Md",
+    "middle": "Reja",
+    "last": "Khan"
+  },
+  "age": 17,
+  "gender": "male",
+  "contact": {
+    "email": "mdreja@example.com",
+    "phone": "+91-9876543210",
+    "address": {
+      "street": "123 Chanchal Khelenpur Road",
+      "city": "Chanchal Khelenpur",
+      "state": "West Bengal",
+      "zip": "732123",
+      "country": "India"
+    }
+  },
+  "education": {
+    "school": "Chanchal High School",
+    "class": 10,
+    "board": "WBBSE",
+    "subjects": ["Math", "Physics", "Chemistry", "Life Science", "Bangla", "History", "Geography"]
+  },
+  "hobbies": ["reading manhua", "coding", "watching anime"],
+  "skills": ["HTML", "CSS", "JavaScript", "React (learning)", "Node.js (basic)"],
+  "preferences": {
+    "colors": ["white", "black"],
+    "device": "Android phone",
+    "readingGenres": ["Murim", "Cultivation", "Adventure"]
+  },
+  "accounts": {
+    "github": "https://github.com/mdreja",
+    "email": "mdreja@example.com"
+  }
+}
